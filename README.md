@@ -13,9 +13,11 @@ The following R datasets are currently available:
 data(package="timetrees")
 ```
 
-```
-## Error in find.package(package, lib.loc, verbose = verbose): there is no package called 'timetrees'
-```
+
+
+|Item      |Title                 |
+|:---------|:---------------------|
+|zika.2015 |Zika virus, 2015-2016 |
 
 # Installing the package
 
